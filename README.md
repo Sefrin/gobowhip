@@ -5,4 +5,4 @@
 - 3d-projektion auf 2d
 - murmelbahn 
 - prozedurale generierung 
-- kein tod - anpassung nach versagena
+- kein tod - anpassung nach versagen
