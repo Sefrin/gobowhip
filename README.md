@@ -1,9 +1,8 @@
-# gobowhip
+#gobowhip
 
-heftige planung
+##heftige planung
 
-## 
 - 3d-projektion auf 2d
-- murmelbahn
-- prozedurale generierung
+- murmelbahn 
+- prozedurale generierung 
 - kein tod - anpassung nach versagen
