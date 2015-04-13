@@ -15,7 +15,7 @@
 
 ## ziel des spiels
 
-- möglichst hohes level durch sterben
+- (möglichst hohes level durch sterben) Quests die nur mit bestimmten anforderungen zu schaffen sind?
 - genre: get hacked and slayed
 
 ## gameplay
@@ -33,3 +33,4 @@
 - das klavier!
 - boss heilt einen?
 - große tür öffnen, aber zu klein/zu schwach
+- running gags
