@@ -15,7 +15,7 @@
 
 ## ziel des spiels
 
-- (möglichst hohes level durch sterben) Quests die nur mit bestimmten anforderungen zu schaffen sind?
+- Quests die nur mit bestimmten anforderungen zu schaffen sind
 - genre: get hacked and slayed
 
 ## gameplay
