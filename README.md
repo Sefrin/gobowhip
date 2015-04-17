@@ -3,6 +3,7 @@
 ##heftige planung
 
 - 3d-projektion auf 2d
+  - wahrscheinlich nur mit [orthogonaler projektion](http://wiki.blender.org/index.php/Doc:2.4/Manual/3D_interaction/Navigating/3D_View) sinnvoll
 - murmelbahn 
 - prozedurale generierung 
 - kein tod - anpassung nach versagen
