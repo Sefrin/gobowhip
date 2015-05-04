@@ -16,3 +16,5 @@ aufteilung von welt in kacheln (quadrate). eine kachel hat einen kacheltyp. kach
 der vorgang wäre, glaube ich, relativ leicht umzusetzen. das ist ein vorteil. nachteil ist, dass man von bild zu 2d-matrix weniger freiheiten hat. außerdem ist diese rasterung evtl etwas uncool weil steif, aber das kommt vllt auf die umsetzung an.
 
 ich glaube, bei prozeduraler generierung passiert hauptsächlich, dass einzelne bauteile hübsch zusammengesteckt werden. wie aufregend dann das ergebnis ist, hängt von der anzahl und der kombinierbarkeit der bauteile ab. für ein spannendes ergebnis brauchen wir also entweder wenige kleine und sehr flexible bauteile (lego) oder sehr viele, grobe bauteile (playmobil). theoretisch könnte man noch eine zwischenebene einbauen und sagen: wir bauen uns unser playmobil aus lego zusammen. das wäre prozedural hoch zwei und das ergebnis wäre sicherlich sehr fancy. aber das klingt auch irgendwie... nach arbeit. 😊
+
+[etwas inspiration](https://www.youtube.com/watch?v=ySTpjT6JYFU)
